@@ -1,9 +1,9 @@
 body {
-	background-color: slategray;
+	background-color: #E6E6E6;
 	text-align: center;
 }
 p {
-	color: white;
+	color: black;
 	font-family: Shanti;
 	font-size: 1.2em;
 	margin: 20px;
@@ -18,7 +18,7 @@ select {
 }
 
 label {
-	color: white;
+	color: black;
 	font-family: Shanti;
 	font-size: 1.2em;
 	margin: 20px;
@@ -27,7 +27,7 @@ label {
 }
 
 img {
-	margin: 60px 0 30px 0;
+	margin: 60px 100px 30px 0;
 	width: 250px;
 }
 
